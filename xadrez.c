@@ -34,6 +34,24 @@ printf("Esquerda\n");
 basequeen++;
 } while (basequeen < R);
 //rainha se move 8 vezes a esquerda enquanto basequeen for menor que r
+printf("\n--- Cavalo---\n");
+int j = 1;
+for(int i = 0; i <2; i++){
+ printf("Baixo\n ");
+
+ while (i ==1 && j<= 1){
+    printf("Cavalo Esquerda\n ");
+    j++;
+ }
+
+}
+
+
+ 
+
+
+ 
+
 
     return 0;
 }
